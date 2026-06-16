@@ -8,7 +8,7 @@ import DashboardUser from "./pages/DashboardUser";
 import DashboardAdmin from "./pages/DashboardAdmin";
 
 // 🔥 TAMBAHAN PENTING
-import Page from "./pages/Page";
+import Page from "./pages/page";
 
 function App() {
   return (
